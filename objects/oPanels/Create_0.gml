@@ -1,0 +1,19 @@
+size = [];
+cells = [];
+ev = 0;
+origEV = ev;
+evAdded = false;
+dragging = false;
+dragable = true;
+valid = true;
+
+relX = x;
+relY = y;
+origX = x;
+origY = y;
+prevX = x;
+prevY = y;
+potentialX = -1;
+potentialY = -1;
+prevGridX = potentialX;
+prevGridY = potentialY;

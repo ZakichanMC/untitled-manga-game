@@ -1,0 +1,1 @@
+size = [ds_grid_width(global.grid),ds_grid_height(global.grid)];
